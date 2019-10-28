@@ -2982,7 +2982,7 @@ function s() {
         width: "260px",
         position: "fixed",
         top: 0
-    }), body_width > window_width && $("#B #S").css("left", t + "px"), b_top.addClass("hide")) : ($("#B #S").css({
+    }), body_width > window_width && $("#B #S").css("left", t + "px"), b_top.addClass("show")) : ($("#B #S").css({
         position: "relative",
         top: 0
     }), body_width > window_width && $("#B #S").css("left", "auto"), b_top.removeClass("show"))
