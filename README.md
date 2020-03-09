@@ -8,7 +8,7 @@
 
 [testlink](https://www.google.com/) -- this is the external link
 
-★★☆
+★★☆   [<img src=/images/youtube.png width=15  height =15>](https://medium.com/csinterviewprep/day-0-stacks-2188bef60bca)
 
 | # |             Title                   | Solution | Difficulty | Medium Link |
 |---| ------------------------------------| -------- | ---------- | ----------- |
