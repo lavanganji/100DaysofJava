@@ -1,4 +1,4 @@
-# A2ZJava -- Read Me in Progress please Dis Regard.
+# 100 days of Java Learning -- Read Me in Progress please Dis Regard.
 
 ## Data Types : 
   These are two types 
