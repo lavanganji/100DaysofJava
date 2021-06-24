@@ -1,6 +1,6 @@
 package org.califcoder.javabasics;
 
-public class _0ClassAndObjects {
+public class _000ClassAndObjects {
 
 	public static void main(String[] args) {
 		

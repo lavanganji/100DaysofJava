@@ -1,6 +1,6 @@
 package org.califcoder.javabasics;
 
-public class ByteDemo {
+public class _002ByteDemo {
 
 	public static void main(String[] args) {
 		System.out.print("byte - Max Value "+Byte.MAX_VALUE+"  Min Value  "+Byte.MIN_VALUE);

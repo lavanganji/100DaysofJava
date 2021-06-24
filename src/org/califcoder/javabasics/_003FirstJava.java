@@ -4,7 +4,7 @@ package org.califcoder.javabasics;
  * @author Calif Coder
  *
  */
-public class CC1_FirstJava {
+public class _003FirstJava {
 
 	/**
 	 * @param args

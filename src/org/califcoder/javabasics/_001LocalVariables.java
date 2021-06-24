@@ -1,6 +1,6 @@
 package org.califcoder.javabasics;
 
-public class _1LocalVariables {
+public class _001LocalVariables {
 
 	public static void main(String[] args) {
 		
