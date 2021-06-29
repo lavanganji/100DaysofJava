@@ -3,10 +3,33 @@ package org.califcoder.javabasics;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
+import org.califcoder.enums.Months;
+
 public class _006SwitchStmtExample {
 
 	public static void main(String[] args) {
 		switchByInteger();
+		switchByString();
+		switchByENUMs();
+		
+	}
+
+	private static void switchByENUMs() {
+
+		Months month = Months.MAY;
+
+		switch (month) {
+		case JAN: System.out.println("Selected Month Enum:\t January");break;
+		case FEB: System.out.println("Selected Month Enum:\t Febrary");break;
+		case MAR: System.out.println("Selected Month Enum:\t MARCH");break;
+
+
+		default:System.out.println("Selected Month Enum:\t DEFAULT");
+		break;
+		}
+	}
+
+	private static void switchByString() {
 		
 	}
 
