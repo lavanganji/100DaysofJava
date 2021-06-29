@@ -30,7 +30,32 @@ public class _006SwitchStmtExample {
 	}
 
 	private static void switchByString() {
+
 		
+		try{
+			String monthStr = getInput("Enter a Month in the form on MON i.e. JAN");
+		
+		
+		switch (monthStr) {
+		case "JAN": System.out.println("User Entered the Month : January");
+			
+			break;
+		case "FEB": System.out.println("User Entered the Month : Febraury");
+		
+		break;
+		case "MAR": System.out.println("User Entered the Month : March");
+		
+		break;
+
+		default:System.out.println("User Entered the Month : Default Month");
+			break;
+		}
+		}catch(Exception e){
+			System.out.println("Error:\t"+ e.getMessage());
+			System.out.println("Stack Trace:\n");
+			e.printStackTrace();
+		}
+	
 	}
 
 	/**
